@@ -1,7 +1,11 @@
 
 
 
-
+## Eskisini silmek için.
+```
+docker stop wormholes && docker rm wormholes && docker rmi wormholestech/wormholes:v1
+rm -rf /wm
+```
 ## Sistem Gereksinimleri
 | Bileşenler | Minimum Gereksinimler | 
 | ------------ | ------------ |
