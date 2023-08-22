@@ -70,6 +70,7 @@ curl -X POST -H "Content-Type:application/json" --data '{"jsonrpc":"2.0","method
 ```
 wget -O monitor.sh https://raw.githubusercontent.com/molla202/Erbie/main/monitor.sh && chmod +x monitor.sh && ./monitor.sh
 ```
+## Manuel monitor
 ```
 nano monitor.sh
 ```
